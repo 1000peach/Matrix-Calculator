@@ -1,0 +1,8 @@
+# C_Visual_Studio_2015 ignore
+.vs/
+Debug/
+*.opendb
+*.db
+*.sln
+*.vcxproj
+*.filters
