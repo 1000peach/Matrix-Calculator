@@ -59,3 +59,12 @@ git clone [fork한 저장소 url]
 2-6. clone 받았던 기존 저장소의 소스 파일들이 구분되었고 프로젝트에 필요한 파일들이 추가되었습니다. 이제 자유롭게 코드를 편집하고 빌드할 수 있습니다. 또한 Git Bash를 통하여 프로젝트를 관리하고 원격 저장소와 연동할 수 있습니다.
 
 ## How To Use
+
+* [행렬 입력](https://github.com/1000peach/Matrix-Calculator/wiki/Input)
+* [행렬 연산](https://github.com/1000peach/Matrix-Calculator/wiki/Calculation)
+* [행렬식 계산](https://github.com/1000peach/Matrix-Calculator/wiki/Determinant)
+* [해 찾기](https://github.com/1000peach/Matrix-Calculator/wiki/Solution)
+* [REF 또는 RREF 구하기](https://github.com/1000peach/Matrix-Calculator/wiki/REF-and-RREF)
+
+
+> _과제로 제출한 간단한 프로그램이지만 README, Wiki 작성 연습을 위해 기본적인 내용을 작성했습니다._
